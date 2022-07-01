@@ -1,8 +1,10 @@
 import Link from 'next/link';
 import React from 'react';
 import { AiFillInstagram, AiFillTwitterSquare, AiFillLinkedin, AiFillBehanceSquare, AiFillDribbbleSquare } from 'react-icons/ai';
+import { DiCssdeck } from 'react-icons/di';
+import { BsMedium } from 'react-icons/bs';
 import { SiMedium } from 'react-icons/si'
-import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import { Span, Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
 
 const Header = () => (
   <Container>

@@ -44,12 +44,11 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionDivider />
-      <SectionTitle main >About Me</SectionTitle>
+      <SectionTitle> About Me </SectionTitle>
       <SectionText>
-        Hey, I am Mihir Modi, A Web and UI/UX Designer currently pusruing my B. tech CSE degree from VIT, Bhopal, who solely believes in delivering the best of what is possible. I specialize in creating functional user interfaces and web pages with ample amount of skillsets which includes creating user flows, wireframes, mockups and prototypes. A keen and curious learner, who likes exploring different aspects of creativity and designing.
-        <br /> <br />
-        “Believe in your ability to be successful in the things you have a passion for. These are god given gifts for you to use.”
+      Hey, I am Mihir Modi, A Web and UI/UX Designer currently pusruing my B. tech CSE degree from VIT, Bhopal, who solely believes in delivering the best of what is possible. I specialize in creating functional user interfaces and web pages with ample amount of skillsets which includes creating user flows, wireframes, mockups and prototypes. A keen and curious learner, who likes exploring different aspects of creativity and designing.
+      <br/> <br/>
+“Believe in your ability to be successful in the things you have a passion for. These are god given gifts for you to use.”
       </SectionText>
       <SectionDivider />
     </Section>

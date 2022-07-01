@@ -1,7 +1,7 @@
 import React from 'react';
-import { AiFillInstagram, AiFillTwitterSquare, AiFillLinkedin, AiFillBehanceSquare, AiFillDribbbleSquare } from 'react-icons/ai';
+import { AiFillTwitterSquare, AiFillLinkedin, AiFillBehanceSquare, AiFillDribbbleSquare } from 'react-icons/ai';
+
 import { SocialIcons } from '../Header/HeaderStyles';
-import { SiMedium } from 'react-icons/si'
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
 
 const Footer = () => {
