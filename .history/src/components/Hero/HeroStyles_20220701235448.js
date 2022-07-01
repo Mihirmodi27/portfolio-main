@@ -79,11 +79,11 @@ export const ImgSection = styled.div`
 
 export const MainText = styled.p`
   max-width: 1000px;
-  font-size: 22px;
+  font-size: 24px;
   line-height: 35px;
   font-weight: 300;
   padding-bottom: 3.6rem;
-  color: rgba(255, 255, 255);
+  color: rgba(255, 255, 255, 0.5);
 
   @media ${(props) => props.theme.breakpoints.md} {
     max-width: 670px;

@@ -1,8 +1,7 @@
 import React from 'react'
 
 import { Section, SectionText, SectionTitle, NameTitle } from '../../styles/GlobalComponents'
-import { Title, Img, LeftSection, RightSection, ImgSection, MainText } from './HeroStyles'
-
+import { LeftSection, Title } from './HeroStyles'
 
 const Hero = (props) => {
   return (
@@ -25,11 +24,6 @@ const Hero = (props) => {
             <Img src='/images/banner_3 1.png' />
           </ImgSection>
         </RightSection>
-      </div>
-      <div className='intro'>
-        <MainText>
-          A product designer based in Gujarat, India. Having a curious personality I am passionate about improving myself everyday, challenging myself and constantly looking forward to learn new stuff everyday.
-        </MainText>
       </div>
     </Section>
   )

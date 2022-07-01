@@ -59,6 +59,7 @@ const GlobalStyles = createGlobalStyle`
   .intro{
     width: 800px;
     height: 20vh;
+    margin-bottom: 5vh;
     margin-left: 150px;
     padding-left: 20px;
     padding-right: 20px;

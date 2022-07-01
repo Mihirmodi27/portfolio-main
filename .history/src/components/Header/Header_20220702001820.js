@@ -55,7 +55,7 @@ const Header = () => (
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons href='https://medium.com/@meheree'>
-        <SiMedium size="2.5rem" />
+        <SiMedium size="3rem" />
       </SocialIcons>
     </Div3>
   </Container>

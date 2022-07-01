@@ -5,7 +5,7 @@ export const Section = styled.section`
   flex-direction: ${(props) => props.row ? "row" : "column"};
   padding: ${(props) => props.nopadding ? "0" : "32px 48px 0"} ;
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 1040px;
   box-sizing: content-box;
   position: relative;
   overflow: hidden;
@@ -109,7 +109,6 @@ export const SectionDivider = styled.div`
 
   width: 64px;
   height: 6px;
-  margin-bottom: 40px;
   border-radius: 10px;
   background-color: #fff;
   background: linear-gradient(121.57deg, #63BEFF 18.77%, #00FFFF 60.15%);

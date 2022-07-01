@@ -31,7 +31,6 @@ const GlobalStyles = createGlobalStyle`
     list-style: none;
   }
   .hover-underline-animation {
-    padding-top: 10px;
     display: inline-block;
     position: relative;
     color: white;
@@ -56,30 +55,7 @@ const GlobalStyles = createGlobalStyle`
     transform: scaleX(1);
     transform-origin: bottom left;
   }
-  .intro{
-    width: 800px;
-    height: 20vh;
-    margin-left: 150px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 20px;
-    margin-bottom: 40px;
-    background:
-    linear-gradient(to right, cyan 2px, transparent 2px) 0 0,
-    linear-gradient(to right, cyan 2px, transparent 2px) 0 100%,
-    linear-gradient(to left, cyan 2px, transparent 2px) 100% 0,
-    linear-gradient(to left, cyan 2px, transparent 2px) 100% 100%,
-    linear-gradient(to bottom, cyan 2px, transparent 2px) 0 0,
-    linear-gradient(to bottom, cyan 2px, transparent 2px) 100% 0,
-    linear-gradient(to top, cyan 2px, transparent 2px) 0 100%,
-    linear-gradient(to top, cyan 2px, transparent 2px) 100% 100%;
 
-  background-repeat: no-repeat;
-  background-size: 20px 20px;
-  }
-  .hero-section{
-    display: flex;
-  }s
 `;
 
 export default GlobalStyles;

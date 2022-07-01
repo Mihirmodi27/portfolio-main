@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { Section, SectionText, SectionTitle, NameTitle } from '../../styles/GlobalComponents'
-import { Title, Img, LeftSection, RightSection, ImgSection, MainText } from './HeroStyles'
+import { title, LeftSection, RightSection, ImgSection, MainText } from './HeroStyles'
 
 
 const Hero = (props) => {
@@ -28,7 +28,7 @@ const Hero = (props) => {
       </div>
       <div className='intro'>
         <MainText>
-          A product designer based in Gujarat, India. Having a curious personality I am passionate about improving myself everyday, challenging myself and constantly looking forward to learn new stuff everyday.
+          The purpose of making this Portfolio is to Showcase the work I have done in Front-End Development. Currently, I am looking to work as an Intern.
         </MainText>
       </div>
     </Section>

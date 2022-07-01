@@ -63,7 +63,7 @@ const GlobalStyles = createGlobalStyle`
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     background:
     linear-gradient(to right, cyan 2px, transparent 2px) 0 0,
     linear-gradient(to right, cyan 2px, transparent 2px) 0 100%,

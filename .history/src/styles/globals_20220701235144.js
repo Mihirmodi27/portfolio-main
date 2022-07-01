@@ -31,7 +31,7 @@ const GlobalStyles = createGlobalStyle`
     list-style: none;
   }
   .hover-underline-animation {
-    padding-top: 10px;
+    padding-top: 10px
     display: inline-block;
     position: relative;
     color: white;

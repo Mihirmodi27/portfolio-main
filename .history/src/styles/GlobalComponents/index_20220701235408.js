@@ -109,7 +109,6 @@ export const SectionDivider = styled.div`
 
   width: 64px;
   height: 6px;
-  margin-bottom: 40px;
   border-radius: 10px;
   background-color: #fff;
   background: linear-gradient(121.57deg, #63BEFF 18.77%, #00FFFF 60.15%);

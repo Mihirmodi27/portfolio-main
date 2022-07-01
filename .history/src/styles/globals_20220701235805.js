@@ -59,11 +59,11 @@ const GlobalStyles = createGlobalStyle`
   .intro{
     width: 800px;
     height: 20vh;
+    margin-bottom: 5vh;
     margin-left: 150px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
-    margin-bottom: 40px;
     background:
     linear-gradient(to right, cyan 2px, transparent 2px) 0 0,
     linear-gradient(to right, cyan 2px, transparent 2px) 0 100%,

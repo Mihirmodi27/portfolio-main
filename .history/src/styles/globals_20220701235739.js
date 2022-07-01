@@ -58,7 +58,7 @@ const GlobalStyles = createGlobalStyle`
   }
   .intro{
     width: 800px;
-    height: 20vh;
+    height: 30vh;
     margin-left: 150px;
     padding-left: 20px;
     padding-right: 20px;
