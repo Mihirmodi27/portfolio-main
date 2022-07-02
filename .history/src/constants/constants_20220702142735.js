@@ -1,9 +1,8 @@
 export const projects = [
   {
-    title: 'WeNotes - E-learning Platform',
-    description: "A notes sharing platform for all the enthusiastic learners.",
-    date: "May-June,2022",
-    image: '/images/weNotes.png',
+    title: 'Food Ordering UI',
+    description: "December,2021",
+    image: '/images/FoodUIUI.png',
     tags: ['Figma'],
     source: 'https://www.figma.com/community/file/1060898369067385362',
     visit: 'https://www.behance.net/gallery/134500189/Food-Ordering-Mobile-App',
@@ -11,8 +10,7 @@ export const projects = [
   },
   {
     title: 'ETHTONET - NFT Marketplace',
-    description: "A landing page design for NFT marketplace.",
-    date: "April, 2022",
+    description: "April, 2022",
     image: '/images/etho.png',
     tags: ['Figma'],
     source: 'https://www.behance.net/gallery/141961779/ETHTONET-NFT-Marketplace-Landing-Page-Design',
@@ -20,8 +18,7 @@ export const projects = [
     id: 1,
   }, {
     title: 'WhatsApp Revamp - Android',
-    description: "A visual and accessibility revamp for Andoid version of WhatsApp.",
-    date: "January, 2021",
+    description: "January, 2021",
     image: '/images/whatsapp.png',
     tags: ['Figma'],
     source: 'https://www.figma.com/community/file/1073145975935859720',
@@ -30,8 +27,7 @@ export const projects = [
   },
   {
     title: 'Food Ordering UI',
-    description: "A food ordering mobile application to order food from anywhere at any given time.",
-    date: "December,2021",
+    description: "December,2021",
     image: '/images/FoodUIUI.png',
     tags: ['Figma'],
     source: 'https://www.figma.com/community/file/1060898369067385362',

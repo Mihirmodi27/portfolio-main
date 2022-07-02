@@ -21,6 +21,7 @@ const Projects = () => (
             <CardInfo className="card-info">{p.date}</CardInfo>
             <div style={{
               display: 'flex',
+              justifyContent: 'center',
             }}>
               <Tools>Tool: </Tools>
               <TagList>

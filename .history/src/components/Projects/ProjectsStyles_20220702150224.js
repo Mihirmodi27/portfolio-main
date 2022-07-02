@@ -34,12 +34,7 @@ export const BlogCard = styled.div`
 export const TitleContent = styled.div`
   z-index: 20;
   width: 100%;
-  text-align-center;
-`;
-export const Tools = styled.div`
-  z-index: 20;
-  margin-left: 50px;
-  padding-top: 10px;
+  margin-left: 20px;
 `;
 
 
@@ -111,8 +106,8 @@ transition: 0.5s;
 `;
 
 export const TagList = styled.ul`
-padding-top: 10px;
-margin-left: 10px;
+display: flex;
+justify-content: space-around;
 color: #BEBEBE;
 `
 export const Tag = styled.li`

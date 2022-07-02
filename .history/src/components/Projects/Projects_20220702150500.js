@@ -19,9 +19,7 @@ const Projects = () => (
             </TitleContent>
             <CardInfo className="card-info">{p.description}</CardInfo>
             <CardInfo className="card-info">{p.date}</CardInfo>
-            <div style={{
-              display: 'flex',
-            }}>
+            <div>
               <Tools>Tool: </Tools>
               <TagList>
                 {p.tags.map((t, i) => {

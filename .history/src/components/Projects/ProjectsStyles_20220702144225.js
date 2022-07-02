@@ -25,27 +25,21 @@ row-gap: 3rem;
 export const BlogCard = styled.div`
  
   box-shadow: 3px 3px 20px black;
-  // text-align: center;
+  text-align: center;
   width: 400px;
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
   }
 `;
 export const TitleContent = styled.div`
+  text-align: center;
   z-index: 20;
   width: 100%;
-  text-align-center;
-`;
-export const Tools = styled.div`
-  z-index: 20;
-  margin-left: 50px;
-  padding-top: 10px;
 `;
 
 
 
 export const HeaderThree = styled.h3`
-text-align: center;
   font-weight: 720;
   letter-spacing: 2px;
   color: white;
@@ -75,9 +69,8 @@ export const Intro = styled.div`
 export const CardInfo = styled.p`
   width: 100%;
   padding: 0 50px;
-  margin-bottom: 5px;
-
-  color: #BEBEBE;
+  margin-bottom: 5px
+  color: #e4e6e7;
   font-style: 2rem;
   line-height: 24px;
   text-align: justify;
@@ -111,11 +104,11 @@ transition: 0.5s;
 `;
 
 export const TagList = styled.ul`
-padding-top: 10px;
-margin-left: 10px;
-color: #BEBEBE;
+display: flex;
+justify-content: space-around;
+padding: 2rem;
 `
 export const Tag = styled.li`
-color: #BEBEBE;
+color: white;
 font-size: 1.5rem;
 `

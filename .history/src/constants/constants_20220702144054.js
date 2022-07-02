@@ -20,7 +20,7 @@ export const projects = [
     id: 1,
   }, {
     title: 'WhatsApp Revamp - Android',
-    description: "A visual and accessibility revamp for Andoid version of WhatsApp.",
+    description: "January, 2021",
     date: "January, 2021",
     image: '/images/whatsapp.png',
     tags: ['Figma'],
@@ -30,7 +30,7 @@ export const projects = [
   },
   {
     title: 'Food Ordering UI',
-    description: "A food ordering mobile application to order food from anywhere at any given time.",
+    description: "December,2021",
     date: "December,2021",
     image: '/images/FoodUIUI.png',
     tags: ['Figma'],

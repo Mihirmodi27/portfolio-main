@@ -112,7 +112,7 @@ transition: 0.5s;
 
 export const TagList = styled.ul`
 padding-top: 10px;
-margin-left: 10px;
+margin-left: 5px;
 color: #BEBEBE;
 `
 export const Tag = styled.li`

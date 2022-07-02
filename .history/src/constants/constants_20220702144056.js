@@ -30,7 +30,7 @@ export const projects = [
   },
   {
     title: 'Food Ordering UI',
-    description: "A food ordering mobile application to order food from anywhere at any given time.",
+    description: "December,2021",
     date: "December,2021",
     image: '/images/FoodUIUI.png',
     tags: ['Figma'],
